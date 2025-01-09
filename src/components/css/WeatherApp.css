@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-outline {
+    text-shadow: 0px 0px 2px white, 0px 0px 2px white;
+  }
+  
